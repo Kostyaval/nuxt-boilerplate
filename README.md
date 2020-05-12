@@ -1,4 +1,5 @@
-# gloxie
+# Nuxt Boilerplate
+
 
 >  Optimized Nuxt.js template
 
