@@ -1,6 +1,6 @@
 # gloxie
 
-> The new design marketplace by XDGuru
+>  Optimized Nuxt.js template
 
 ## Build Setup
 
